@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contacts> 
+  <linkman id="1"> 
+    <name>Neld</name>  
+    <email>neld@163.com</email>  
+    <address>广州</address>  
+    <group>小码哥教育</group> 
+  </linkman>  
+  <linkman id="1"> 
+    <name>Will</name>  
+    <email>neld@sina.cn</email>  
+    <address>成都</address>  
+    <group>小码哥教育</group> 
+  </linkman>  
+  <linkman>
+    <name>张三</name>
+    <email>123@123.com</email>
+    <address>北京</address>
+    <group>Dwight</group>
+  </linkman>
+  <linkman>
+    <name>张三</name>
+    <email>123@123.com</email>
+    <address>北京</address>
+    <group>Dwight</group>
+  </linkman>
+  <linkman>
+    <name>张三</name>
+    <email>123@123.com</email>
+    <address>北京</address>
+    <group>Dwight</group>
+  </linkman>
+  <linkman>
+    <name>张三</name>
+    <email>123@123.com</email>
+    <address>北京</address>
+    <group>Dwight</group>
+  </linkman>
+  <linkman id="9527">
+    <name>西门吹雪</name>
+    <email>123@123.com</email>
+    <address>西门</address>
+    <group>武侠</group>
+  </linkman>
+</contacts>
